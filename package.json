@@ -12,5 +12,6 @@
     "sup:pull": "supos-ccws-scripts pull",
     "sup:dev": "supos-ccws-scripts dev",
     "sup:push": "supos-ccws-scripts push"
-  }
+  },
+  "files": ["src"]
 }
