@@ -1,7 +1,11 @@
-import React from 'react';
-
-const Component = () => {
-  return <div> Hello, this is test component!</div>
-}
-
-export default Component;
+import React from 'react'
+import MyVueComponent from './MyVueComponent.vue'
+import { VueWrapper } from 'vuera'
+export default () => (
+  <div>
+    <VueWrapper
+      component={MyVueComponent}
+      message='Hello from Vue!'
+    />
+  </div>
+)
