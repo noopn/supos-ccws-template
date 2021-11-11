@@ -1,6 +1,6 @@
 {
   "name": "supos-ccws-template",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "license": "MIT",
   "keywords": [
     "ccws-cli-template"
@@ -14,6 +14,7 @@
     "sup:push": "supos-ccws-scripts push"
   },
   "files": [
-    "src"
+    "src/",
+    "ccws.config.json"
   ]
 }
