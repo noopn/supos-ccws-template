@@ -14,7 +14,7 @@
     "sup:push": "supos-ccws-scripts-push"
   },
   "files": [
-    "src/",
+    "src",
     "ccws.config.json"
   ]
 }
