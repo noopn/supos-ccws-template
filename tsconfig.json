@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noImplicitReturns": true,
+    "lib": ["dom", "esnext"],
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "allowJs": true
+  },
+  "include": ["src/**/*"]
+}
