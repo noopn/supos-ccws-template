@@ -15,6 +15,7 @@
   },
   "files": [
     "src",
+    "tsconfig.json",
     "ccws.config.json"
   ]
 }
