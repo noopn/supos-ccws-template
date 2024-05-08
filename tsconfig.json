@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "noImplicitReturns": true,
+    "outDir": "./dist",
     "lib": ["dom", "esnext"],
     "skipLibCheck": true,
     "esModuleInterop": true,
