@@ -11,5 +11,5 @@
     "jsx": "preserve",
     "allowJs": true
   },
-  "include": ["src/**/*"]
+  "include": ["src"]
 }
