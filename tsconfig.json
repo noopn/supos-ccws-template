@@ -8,7 +8,7 @@
     "strict": true,
     "module": "esnext",
     "moduleResolution": "node",
-    "jsx": "preserve",
+    "jsx": "react",
     "allowJs": true
   },
   "include": ["src"]
